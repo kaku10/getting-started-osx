@@ -1,1 +1,1 @@
-# getting-started-osx
+My macOS PC's setup guide
